@@ -1,6 +1,6 @@
 Hand-Based Sound Controller
 
-This project provides a real-time hand-gesture sound controller using Python, OpenCV, and MediaPipe. By tracking the distance between the thumb and index finger, the system dynamically adjusts the computer’s volume. It is designed for simple, hands-free interaction and works on Windows, macOS, and Linux (with minor configuration differences).
+This project provides a real-time hand-gesture sound controller using Python, OpenCV, and MediaPipe. By tracking the distance between the thumb and index finger, the system dynamically adjusts the computer’s volume. It is designed for simple, hands-free interaction and works on Windows.
 
 ⸻
 
